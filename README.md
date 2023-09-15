@@ -28,4 +28,4 @@ This project is created with HTML, CSS and JavaScript.It is an example of respon
 
 ![](images/restaurant.gif)
 
-You can see the project from this link: 
+You can see the project from this link: https://restaurant-site-htmlcssjs.netlify.app/
