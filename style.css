@@ -681,7 +681,7 @@ section .heading span{
         position: absolute;
         background-color: #fff;
         top: 95%;
-        height: calc(62vh - 9rem);
+        height: calc(82vh - 9rem);
         width: 30rem;
         box-shadow: 0px 20px 14px 0px rgba(0 0 0 / 75%);
         right: -150%; 
